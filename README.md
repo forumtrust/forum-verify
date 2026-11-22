@@ -1,6 +1,6 @@
 # FORUM — the machine that verifies machines
 
-A reputation oracle for the agent economy. MCP servers and A2A agents,
+Verify FORUM's signed, daily trust records yourself. MCP servers and A2A agents,
 scored by a documented method, signed into Merkle releases, anchored
 on-chain daily. No dashboard for humans to nod at — one API a machine
 queries before transacting.
